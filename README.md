@@ -29,5 +29,8 @@
     }
   
 
-
-
+###  nginx -t
+###  systemctl restart nginx
+###  systemctl restart nginx
+###  service nginx start
+###  service nginx status
